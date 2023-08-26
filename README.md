@@ -24,4 +24,4 @@ I made the Pixel War 2. I used the Unity Editor and C# for coding. I want to exp
 
 -UI
 
-To play: https://sharemygame.com/@Poki/asteroids
+To play: https://sharemygame.com/@Poki/pixel-war-2d
